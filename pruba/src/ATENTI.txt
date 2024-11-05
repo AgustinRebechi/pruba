@@ -1,0 +1,7 @@
+git config --local user.name "miusuarioblablla"
+git config --local user.email mimail@ajsdk
+
+git add .
+git commit -m "comentarioblabla"
+git push
+
